@@ -23,3 +23,7 @@ sprints, backlog items, and task tracking.
 
 Volunteers can provide their availability so that
 they can be assigned to suitable disaster-relief activities.
+## Availability Validation
+
+Volunteer availability information is validated before
+assigning volunteers to disaster-relief activities.
