@@ -15,4 +15,7 @@ The system helps organize volunteer information, availability, skills, and assig
 
 The project follows Scrum methodology and uses Jira
 for planning, tracking, and managing development activities.
+## Development Methodology
 
+The project is developed using Scrum with planned
+sprints, backlog items, and task tracking.
