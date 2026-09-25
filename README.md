@@ -17,8 +17,7 @@ The project follows Scrum methodology and uses Jira
 for planning, tracking, and managing development activities.
 ## Development Methodology
 
-The project is developed using Scrum with planned
-sprints, backlog items, and task tracking.
+The project is developed using Kanban methodology with planned
 ## Volunteer Availability
 
 Volunteers can provide their availability so that
