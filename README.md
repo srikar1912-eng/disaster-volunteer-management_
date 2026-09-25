@@ -19,3 +19,7 @@ for planning, tracking, and managing development activities.
 
 The project is developed using Scrum with planned
 sprints, backlog items, and task tracking.
+## Volunteer Availability
+
+Volunteers can provide their availability so that
+they can be assigned to suitable disaster-relief activities.
